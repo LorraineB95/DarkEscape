@@ -1,4 +1,4 @@
-# Dark Escape
+# Dark Escape Prototype
 
 Steps to open project:
 
