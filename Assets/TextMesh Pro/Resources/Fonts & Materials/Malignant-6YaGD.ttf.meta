@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c8fd5175822202c4eaf56567e676b642
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Malignant
+  fontNames:
+  - Malignant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 971e01bd7fe5df744a7667e54c27d40b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
